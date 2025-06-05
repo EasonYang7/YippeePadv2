@@ -20,7 +20,7 @@ Planning:
 🏝️ Brainstorming with themes, I wanted the keyboard to have a tropical beach theme as we are heading into the awesome summer break!
 🦈 Possibly including a cool shark inprint to the back of the keyboard, contributing to a cool vibe :)
 
-Here are some themes and design I would like to incorporate within my keyboard design!
+🎨 Here are some themes and design I would like to incorporate within my keyboard design!
 ![Color Code](https://github.com/user-attachments/assets/ea3ceedd-a72c-45bf-a2ee-b63977ecc0a2)
 ![image](https://github.com/user-attachments/assets/cc80b794-8e35-47fd-b8c3-5551a5d9f36e)
 
