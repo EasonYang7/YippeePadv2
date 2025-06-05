@@ -29,7 +29,9 @@ Planning:
 ![image](https://github.com/user-attachments/assets/5ab63c40-0489-4dd1-9ddb-fd026e5c9401)
 
 🦑 Possible Switch Options!
+
 ![image](https://github.com/user-attachments/assets/720048ce-2bb4-46d5-9a8e-498ba59f9563)
+
 ![image](https://github.com/user-attachments/assets/5abb4612-923c-4bdb-84ad-40580e4de8fb)
 
 **Total Time Spent: 30 mins**
